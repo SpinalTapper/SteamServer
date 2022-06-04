@@ -1,4 +1,6 @@
-# SteamServer
+# CSGO Steam Server 
+
+This was setup for Ubuntu 20.04 and a CSGO Server
 
 Just run 1, then 2
 
